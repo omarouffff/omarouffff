@@ -1,15 +1,18 @@
 ## Hey 👋, I'm Omar Mohamed!
 
-<a href='https://www.linkedin.com/'>
-  <img align='left' alt="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height='18px'/>
-</a>
-<a href='https://www.instagram.com/'>
-  <img align='left' alt="instagram" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height='18px'/>
-</a>
-<a href='https://www.facebook.com/'>
-  <img align='left' alt="facebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height='18px'/>
-</a>
-
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="24" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="24" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="24" />
+  </a>
+</p>
 <br/>
 <br/>
 
