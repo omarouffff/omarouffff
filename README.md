@@ -1,18 +1,51 @@
-<h1 align="center">Hi 👋, I'm Omar Mohamed</h1>
-<h3 align="center">Full Stack Developer | AI & ML Enthusiast</h3>
+## Hey 👋, I'm Omar Mohamed!
 
-<p align="center">
-  💻 Full Stack Developer (Frontend & Backend) <br>
-  🤖 Interested in Artificial Intelligence & Machine Learning <br>
-  🐍 Python for Backend & Machine Learning <br>
-  🎓 Computer Science Student <br>
-  🚀 Building real-world scalable applications
-</p>
+<a href='https://www.linkedin.com/'>
+  <img align='left' alt="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height='18px'/>
+</a>
+<a href='https://www.instagram.com/'>
+  <img align='left' alt="instagram" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height='18px'/>
+</a>
+<a href='https://www.facebook.com/'>
+  <img align='left' alt="facebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height='18px'/>
+</a>
 
----
+<br/>
+<br/>
 
-<h2 align="center">⚡ Tech Stack</h2>
+I am a versatile developer who adapts to different roles — Full Stack Web Developer 🌐, AI & Machine Learning Engineer 🤖, and Python Developer 🐍 — depending on the project needs.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,django,git,github,mysql" />
-</p>
+I enjoy building real-world applications, exploring modern technologies, and combining web development with AI to create impactful solutions 🚀
+
+<br/>
+<br/>
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320px"/>
+
+### 🧐 More About Me:
+
+- 🔭 &nbsp; I’m currently working on improving my Full Stack & AI skills  
+- 🤖 &nbsp; Exploring Machine Learning & Data Science  
+- 🌱 &nbsp; Currently learning advanced backend & AI integration  
+- 👨🏻‍💻 &nbsp; Most of my projects are available on GitHub  
+- 💬 &nbsp; Ask me about Web Dev, Python, or AI  
+- 📫 &nbsp; Reach me on LinkedIn / Instagram / Facebook  
+- ⚡ &nbsp; Fun fact: I love turning ideas into real applications  
+
+<br>
+
+### 🔨 Languages and Tools:
+
+<a href="#"><img align="left" height="42px" src="https://skillicons.dev/icons?i=cpp" /></a>
+<a href="#"><img align="left" height="42px" src="https://skillicons.dev/icons?i=python" /></a>
+<a href="#"><img align="left" height="42px" src="https://skillicons.dev/icons?i=js" /></a>
+<a href="#"><img align="left" height="42px" src="https://skillicons.dev/icons?i=html" /></a>
+<a href="#"><img align="left" height="42px" src="https://skillicons.dev/icons?i=css" /></a>
+<a href="#"><img align="left" height="42px" src="https://skillicons.dev/icons?i=react" /></a>
+<a href="#"><img align="left" height="42px" src="https://skillicons.dev/icons?i=nodejs" /></a>
+<a href="#"><img align="left" height="42px" src="https://skillicons.dev/icons?i=django" /></a>
+<a href="#"><img align="left" height="42px" src="https://skillicons.dev/icons?i=mysql" /></a>
+<a href="#"><img align="left" height="42px" src="https://skillicons.dev/icons?i=git" /></a>
+<a href="#"><img height="42px" src="https://skillicons.dev/icons?i=github" /></a>
+
+<br><br><br>
