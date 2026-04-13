@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Omar Mohamed</h1>
+<h3 align="center">Full Stack Developer | AI & ML Enthusiast</h3>
 
-<!--
-**omarouffff/omarouffff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Full Stack Developer (Frontend & Backend) <br>
+  🤖 Interested in Artificial Intelligence & Machine Learning <br>
+  🐍 Strong in Python & Problem Solving <br>
+  🎓 Computer Science Student <br>
+  🚀 Building real-world scalable applications
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">🌐 Connect with me</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
+<h2 align="center">⚡ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,django,git,github,mysql" />
+</p>
