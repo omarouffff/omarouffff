@@ -1,21 +1,5 @@
 ## Hey 👋, I'm Omar Mohamed!
 
-<p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="24" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="24" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="24" />
-  </a>
-</p>
-<br/>
-<br/>
-
 I am a versatile developer who adapts to different roles — Full Stack Web Developer 🌐, AI & Machine Learning Engineer 🤖, and Python Developer 🐍 — depending on the project needs.
 
 I enjoy building real-world applications, exploring modern technologies, and combining web development with AI to create impactful solutions 🚀
