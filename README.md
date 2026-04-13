@@ -4,7 +4,7 @@
 <p align="center">
   💻 Full Stack Developer (Frontend & Backend) <br>
   🤖 Interested in Artificial Intelligence & Machine Learning <br>
-  🐍 Strong in Python & Problem Solving <br>
+  🐍 Python for Backend & Machine Learning <br>
   🎓 Computer Science Student <br>
   🚀 Building real-world scalable applications
 </p>
@@ -18,6 +18,12 @@
   </a>
   <a href="https://github.com/">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.facebook.com/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
 </p>
 
