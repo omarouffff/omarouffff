@@ -44,3 +44,5 @@ I enjoy building real-world applications, exploring modern technologies, and com
 
 </a>
 
+![Snake Animation](https://raw.githubusercontent.com/A-Hemeda/A-Hemeda/output/github-contribution-grid-snake-dark.svg)
+
